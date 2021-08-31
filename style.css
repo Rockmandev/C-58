@@ -1,0 +1,25 @@
+body {
+    height: 900px;
+    text-align: center;
+    background-image: linear-gradient(lightgreen, cyan);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #f8BBD0;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+}
+
+li {
+    float: left
+}
+
+.links:hover {
+    background-color: aquamarine;
+}
